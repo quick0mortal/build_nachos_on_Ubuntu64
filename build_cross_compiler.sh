@@ -1,9 +1,9 @@
 # /bin/bash
 
-mv ./mips-decstation.linux-xgcc.tgz /
+mv ./mips-decstation.linux-xgcc.tar.gz /
 
 cd /
-tar -xzvf /mips-decstation.linux-xgcc.tgz 
+tar -xzvf /mips-decstation.linux-xgcc.tar.gz 
 
 cd -
 
