@@ -19,4 +19,4 @@
 
 		sudo ./build_cross_compiler.sh
 
-##PS:如果发现错误，希望大家指正
+## PS:如果发现错误，希望大家指正
